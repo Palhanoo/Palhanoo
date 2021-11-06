@@ -21,7 +21,7 @@ I'm an analyst and system developer in formation, nowadays I work as a backend D
 ### Contact 📧
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-palhano-30911a1b6/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Bruno_Palhano/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bruno_Palhano/)
 
 <div>
   <a href="https://github.com/Palhanoo">
