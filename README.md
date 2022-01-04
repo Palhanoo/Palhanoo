@@ -2,7 +2,7 @@
 
 I'm Bruno Palhano, 22y
 
-I'm an analyst and system developer in formation, nowadays I work as a backend Developer with NestJS (Node);
+I'm an analyst and system developer in formation, I'm currently working as a backend Developer with NodeJS;
 
 
 ### Languages and tools 🧰
