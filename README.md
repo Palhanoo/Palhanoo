@@ -12,6 +12,7 @@ I'm an analyst and system developer in formation, I'm currently working as a bac
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,6 +27,6 @@ I'm an analyst and system developer in formation, I'm currently working as a bac
 
 <div>
   <a href="https://github.com/Palhanoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Palhanoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palhanoo&layout=compact&langs_count=4&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Palhanoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palhanoo&layout=compact&langs_count=4&theme=dark"/>
 </div>
