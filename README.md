@@ -2,7 +2,7 @@
 
 I'm Bruno Palhano, 22y
 
-I'm an analyst and system developer in formation, I'm currently working as a backend Developer with NodeJS;
+I'm an analyst and system developer in formation, I'm currently working as a backend Developer with NodeJS and PHP;
 
 
 ### Languages and tools 🧰
