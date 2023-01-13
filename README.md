@@ -26,8 +26,8 @@ I'm an analyst and system developer, I'm currently working as a fullstack Develo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-palhano-30911a1b6/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bruno_Palhano/)
 
-<div>
+<!-- <div>
   <a href="https://github.com/Palhanoo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Palhanoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palhanoo&layout=compact&langs_count=4&theme=dark"/>
-</div>
+</div> -->
