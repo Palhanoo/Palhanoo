@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Bruno Palhano, 22y
+I'm Bruno Palhano, 24y
 
-I'm an analyst and system developer, I'm currently working as a fullstack Developer with NodeJS and React;
+I'm an analyst and system developer.
 
 
 ### Languages and tools 🧰
